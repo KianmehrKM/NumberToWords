@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp23
+namespace NumToWord02
 {
     class Program
     {
