@@ -144,7 +144,7 @@ namespace NumToWord1
 
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("Payane barnameh.");
+            Console.WriteLine("Barnameh be payan resid.");
 
             Console.ReadKey();
         }
