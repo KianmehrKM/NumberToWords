@@ -1,4 +1,4 @@
-This program was made by me as a class project in our school for making a little program in C# that converts numbers to words.
+This program was made by me as a class project in our school for making a little program in C# that converts numbers to words. The screenshot above is in Persian.
 
 ![image](https://user-images.githubusercontent.com/85435062/204315420-7c8ef87d-dc8f-4fe1-bdb9-67b52a551944.png)
 
